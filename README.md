@@ -8,7 +8,7 @@ Licensed under MIT (https://github.com/wasimapinjari/ajax-crud/blob/main/LICENSE
 # ajax-crud
 
 ## AJAX CRUD Application with Client-side JavaScript and Server-side PHP Validation
-___
+
 ### PREVIEW 😋
 ___
 ![Main Interface](img/preview-1.png)
