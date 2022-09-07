@@ -27,7 +27,7 @@ ___
 ___
 
 Steps | What to do?
-|-|-
+|:-|:-
 | Step 1: | Download and install [XAMPP](https://www.apachefriends.org/download.html)
 | Step 2: | Open XAMPP
 | Step 3: | Start Apache & MySQL Module
