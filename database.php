@@ -1,11 +1,11 @@
 <?php
 
-    /*-------------------------------------------------------------------------------
+    /*
 
     ajax-crud: database.php
     Licensed under MIT (https://github.com/wasimapinjari/ajax-crud/blob/main/LICENSE)
 
-    -------------------------------------------------------------------------------*/
+    */
 
     define('DB_HOST', 'localhost');
     define('DB_NAME', 'wasimapinjari');
