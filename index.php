@@ -1,9 +1,9 @@
-<!-------------------------------------------------------------------------------
+<!--
 
 ajax-crud: index.php
 Licensed under MIT (https://github.com/wasimapinjari/ajax-crud/blob/main/LICENSE)
 
--------------------------------------------------------------------------------->
+-->
 
 <?php include './database.php'; ?>
 
