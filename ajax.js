@@ -1,9 +1,9 @@
-/*-------------------------------------------------------------------------------
+/*
 
 ajax-crud: ajax.js
 Licensed under MIT (https://github.com/wasimapinjari/ajax-crud/blob/main/LICENSE)
 
--------------------------------------------------------------------------------*/
+*/
 
 $(document).ready(function(){
 
