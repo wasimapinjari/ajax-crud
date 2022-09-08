@@ -1,11 +1,11 @@
 <?php
 
-    /*-------------------------------------------------------------------------------
+    /*
 
     ajax-crud: search.php
     Licensed under MIT (https://github.com/wasimapinjari/ajax-crud/blob/main/LICENSE)
 
-    -------------------------------------------------------------------------------*/
+    */
     
     include './database.php';
 
